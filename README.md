@@ -1,1 +1,1 @@
-# Flipkart-clone
+Try to clone design Flipkart website.
